@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\Новая папка\bin\Debug\net10.0\Новая папка.exe
+C:\Users\Laptop\Desktop\Новая папка\bin\Debug\net10.0\Новая папка.deps.json
+C:\Users\Laptop\Desktop\Новая папка\bin\Debug\net10.0\Новая папка.runtimeconfig.json
+C:\Users\Laptop\Desktop\Новая папка\bin\Debug\net10.0\Новая папка.dll
+C:\Users\Laptop\Desktop\Новая папка\bin\Debug\net10.0\Новая папка.pdb
+C:\Users\Laptop\Desktop\Новая папка\obj\Debug\net10.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Новая папка\obj\Debug\net10.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Новая папка\obj\Debug\net10.0\Новая папка.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Новая папка\obj\Debug\net10.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Новая папка\obj\Debug\net10.0\Новая папка.dll
+C:\Users\Laptop\Desktop\Новая папка\obj\Debug\net10.0\refint\Новая папка.dll
+C:\Users\Laptop\Desktop\Новая папка\obj\Debug\net10.0\Новая папка.pdb
+C:\Users\Laptop\Desktop\Новая папка\obj\Debug\net10.0\Новая папка.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Новая папка\obj\Debug\net10.0\ref\Новая папка.dll
